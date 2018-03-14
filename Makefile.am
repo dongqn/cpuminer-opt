@@ -34,7 +34,6 @@ cpuminer_SOURCES = \
   algo/argon2/ar2/argon2.c \
   algo/argon2/ar2/argon2d.c \
   algo/argon2/ar2/opt.c \
-  algo/argon2/ar2/cores.c \
   algo/argon2/ar2/ar2-scrypt-jane.c \
   algo/argon2/ar2/blake2b.c \
   algo/blake/sph_blake.c \
